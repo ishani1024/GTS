@@ -1,8 +1,18 @@
-GLOBAL TAXI SERVICE — REFERENCE-STYLE WEBSITE
+# Global Taxi Service
 
-Put these files in one folder:
-- index.html
-- style.css
-- script.js
-- logo.png
-- hero.png
+A responsive taxi service website showcasing taxi bookings, vehicle options, popular destinations and travel services across Assam.
+
+### Features
+- Service and vehicle listings
+- Online booking form
+- WhatsApp booking integration
+- Customer reviews section
+- Contact and Instagram details
+
+### Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+
+Reliable. Safe. On Time.
